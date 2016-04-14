@@ -1,10 +1,6 @@
 """
-__file__
-	feat_utils.py
-__description__
-	This file provides utils for generating features.
-__author__
-	Chenglong Chen < c.chenglong@gmail.com >
+Thanks to Chenglong Chen
+
 """
 
 

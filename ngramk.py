@@ -1,11 +1,8 @@
 
 """
-__file__
-    ngram.py
-__description__
-    This file provides functions to compute n-gram & n-term.
-__author__
-    Chenglong Chen < c.chenglong@gmail.com >
+
+Thanks to Chenglong Chen
+
 """
 
 def getUnigram(words):
